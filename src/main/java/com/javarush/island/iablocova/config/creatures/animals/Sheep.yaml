@@ -1,0 +1,14 @@
+---
+maxWeight: 70
+speed: 3
+maxSpeed: 5
+massOfFood: 15
+matureAge: 5
+maxAge: 300
+maxEnergy: 500
+maxNumberPerCell: 140
+imagePath: src/main/resources/img/icon/sheep.png
+weight: 70
+isAlive: true
+energy: 500
+isBred: false

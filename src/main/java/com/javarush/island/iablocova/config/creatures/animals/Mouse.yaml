@@ -1,0 +1,14 @@
+---
+maxWeight: 0.05
+speed: 1
+maxSpeed: 2
+massOfFood: 0.01
+matureAge: 2
+maxAge: 200
+maxEnergy: 50
+maxNumberPerCell: 500
+imagePath: src/main/resources/img/icon/mouse.png
+weight: 0.05
+isAlive: true
+energy: 50
+isBred: false

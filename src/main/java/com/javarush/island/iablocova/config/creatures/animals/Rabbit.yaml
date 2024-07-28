@@ -1,0 +1,14 @@
+---
+maxWeight: 2
+speed: 2
+maxSpeed: 6
+massOfFood: 0.45
+matureAge: 2
+maxAge: 200
+maxEnergy: 600
+maxNumberPerCell: 150
+imagePath: src/main/resources/img/icon/rabbit.png
+weight: 2
+isAlive: true
+energy: 600
+isBred: false

@@ -1,0 +1,14 @@
+---
+maxWeight: 700
+speed: 3
+maxSpeed: 7
+massOfFood: 100
+matureAge: 7
+maxAge: 450
+maxEnergy: 1000
+maxNumberPerCell: 10
+imagePath: src/main/resources/img/icon/buffalo.png
+weight: 700
+isAlive: true
+energy: 1000
+isBred: false

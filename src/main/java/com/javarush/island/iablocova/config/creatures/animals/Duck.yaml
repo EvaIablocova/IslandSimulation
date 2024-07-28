@@ -1,0 +1,14 @@
+---
+maxWeight: 1
+speed: 4
+maxSpeed: 7
+massOfFood: 0.15
+matureAge: 2
+maxAge: 200
+maxEnergy: 600
+maxNumberPerCell: 200
+imagePath: src/main/resources/img/icon/duck.png
+weight: 1
+isAlive: true
+energy: 600
+isBred: false

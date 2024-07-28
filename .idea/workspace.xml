@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8287f4da-f880-4a1c-bac4-7fa255ebf3a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/abstraction/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/IslandConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Bear.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Boa.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Boar.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Buffalo.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Caterpillar.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Deer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Duck.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Eagle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Fox.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Goat.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Horse.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Mouse.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Rabbit.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Sheep.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/animals/Wolf.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/config/creatures/plants/Plant.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/constants/Conversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/constants/Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/constants/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/CustomData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/Island.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/Herbivorous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/Omnivorous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Buffalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Caterpillar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Deer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Goat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/herbivorous/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/omnivorous/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/omnivorous/Boar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/predator/Boa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/predator/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/predator/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/animals/predator/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/creatures/plants/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/entity/island/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/exception/CreateObjectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/exception/ParametersException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/factory/CreaturesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/repository/CreaturePopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/repository/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/repository/SetOfCreaturesTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/Breeding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/CreatureParametersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/DeadsCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/Feeding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/GetRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/IslandScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/MonitoringStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/Moving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/Spawner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/Timeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/util/ValidationCustomData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/consoleview/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/GUIView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/IslandMainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/IslandPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/controller/IslandConfigPaneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/controller/IslandRootLayoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/controller/IslandStatisticsLayoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/util/CreatureViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/util/GUIExchanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/util/GUIStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/util/GUISynchronizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/island/iablocova/view/guiview/util/StatisticsUpdater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/bear.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/boa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/boar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/buffalo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/caterpillar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/cow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/deer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/duck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/eagle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/fox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/goat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/horse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/mouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/plant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/rabbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/sheep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icon/wolf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/IslandConfigPane.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/IslandRootLayout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/IslandStatisticsLayout.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2j0KpCcPZEhO7NOEtWUad9NOe60" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eva/Documents/IslandSimulation&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-be841094" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8287f4da-f880-4a1c-bac4-7fa255ebf3a9" name="Changes" comment="" />
+      <created>1720518736637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720518736637</updated>
+      <workItem from="1721283668968" duration="2316000" />
+      <workItem from="1721709429949" duration="2182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+---
+maxWeight: 15
+speed: 1
+maxSpeed: 2
+massOfFood: 3
+matureAge: 5
+maxAge: 300
+maxEnergy: 100
+maxNumberPerCell: 30
+imagePath: src/main/resources/img/icon/boa.png
+weight: 15
+isAlive: true
+energy: 100
+isBred: false

@@ -1,0 +1,14 @@
+---
+maxWeight: 300
+speed: 4
+maxSpeed: 7
+massOfFood: 50
+matureAge: 7
+maxAge: 450
+maxEnergy: 1000
+maxNumberPerCell: 20
+imagePath: src/main/resources/img/icon/deer.png
+weight: 300
+isAlive: true
+energy: 1000
+isBred: false

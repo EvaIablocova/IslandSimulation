@@ -1,0 +1,14 @@
+---
+maxWeight: 60
+speed: 3
+maxSpeed: 5
+massOfFood: 10
+matureAge: 5
+maxAge: 300
+maxEnergy: 600
+maxNumberPerCell: 140
+imagePath: src/main/resources/img/icon/goat.png
+weight: 60
+isAlive: true
+energy: 600
+isBred: false

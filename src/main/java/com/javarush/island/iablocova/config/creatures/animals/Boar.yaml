@@ -1,0 +1,14 @@
+---
+maxWeight: 400
+speed: 2
+maxSpeed: 5
+massOfFood: 50
+matureAge: 6
+maxAge: 400
+maxEnergy: 300
+maxNumberPerCell: 50
+imagePath: src/main/resources/img/icon/boar.png
+weight: 400
+isAlive: true
+energy: 300
+isBred: false

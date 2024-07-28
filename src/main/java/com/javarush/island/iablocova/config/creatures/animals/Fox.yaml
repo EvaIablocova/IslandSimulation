@@ -1,0 +1,14 @@
+---
+maxWeight: 8
+speed: 2
+maxSpeed: 4
+massOfFood: 2
+matureAge: 5
+maxAge: 300
+maxEnergy: 200
+maxNumberPerCell: 30
+imagePath: src/main/resources/img/icon/fox.jpg
+weight: 8
+isAlive: true
+energy: 200
+isBred: false

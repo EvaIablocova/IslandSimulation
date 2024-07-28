@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javarush.island.iablocova.view.guiview.controller.IslandStatisticsLayoutController">
+   <children>
+      <BarChart fx:id="barChart" legendSide="TOP" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" title="Количество разных видов животных и растений">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" fx:id="xAxis" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+      </BarChart>
+      <AnchorPane prefHeight="100.0" prefWidth="800.0">
+         <children>
+            <Button layoutX="675.0" layoutY="38.0" mnemonicParsing="false" onAction="#handleCloseStatistics" prefWidth="70.0" text="Закрыть" AnchorPane.bottomAnchor="36.4" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="38.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

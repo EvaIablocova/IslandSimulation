@@ -1,0 +1,14 @@
+---
+maxWeight: 500
+speed: 2
+maxSpeed: 4
+massOfFood: 80
+matureAge: 6
+maxAge: 400
+maxEnergy: 300
+maxNumberPerCell: 5
+imagePath: src/main/resources/img/icon/bear.jpg
+weight: 500
+isAlive: true
+energy: 300
+isBred: false

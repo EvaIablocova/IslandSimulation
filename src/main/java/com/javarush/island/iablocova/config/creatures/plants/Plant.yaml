@@ -1,0 +1,6 @@
+---
+weight: 32
+isAlive: true
+maxAge: 150
+maxNumberPerCell: 200
+imagePath: src/main/resources/img/icon/plant.png

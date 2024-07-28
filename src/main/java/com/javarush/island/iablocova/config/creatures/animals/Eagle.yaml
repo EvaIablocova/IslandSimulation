@@ -1,0 +1,14 @@
+---
+maxWeight: 6
+speed: 3
+maxSpeed: 7
+massOfFood: 1
+matureAge: 5
+maxAge: 300
+maxEnergy: 300
+maxNumberPerCell: 20
+imagePath: src/main/resources/img/icon/eagle.png
+weight: 6
+isAlive: true
+energy: 300
+isBred: false

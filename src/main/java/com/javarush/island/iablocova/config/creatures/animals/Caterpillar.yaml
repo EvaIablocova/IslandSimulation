@@ -1,0 +1,14 @@
+---
+maxWeight: 0.01
+speed: 0
+maxSpeed: 0
+massOfFood: 0.01
+matureAge: 1
+maxAge: 100
+maxEnergy: 10
+maxNumberPerCell: 1000
+imagePath: src/main/resources/img/icon/caterpillar.png
+weight: 0.01
+isAlive: true
+energy: 10
+isBred: false
